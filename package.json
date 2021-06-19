@@ -17,7 +17,8 @@
         "scrypt",
         "equihash",
         "verushash",
-        "x16rv2"
+        "x16rv2",
+        "kawpow"
     ],
     "homepage": "https://github.com/AoD-Technologies/cryptocurrency-stratum-pool",
     "bugs": {
