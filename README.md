@@ -51,6 +51,7 @@ Features
 * ✓ __Qubit__ (Qubitcoin [Q2C], Myriadcoin [MYR])
 * ✓ __SHAvite-3__ (INKcoin [INK])
 * ✓ __Sha1__ (Sha1coin [SHA], Yaycoin [YAY])
+* ✓ __KawPow__ (Ravencoin [RVN])
 
 Requirements
 ------------
