@@ -36,17 +36,19 @@
         "type": "git",
         "url": "https://github.com/AoD-Technologies/cryptocurrency-stratum-pool.git"
     },
-    "dependencies": {
-        "async": "*",
-        "base58-native": "*",
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "big-integer": "^1.6.48",
+    "bignum": "^0.13.1",
+    "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
         "bchaddrjs": "^0.4.2",
-        "bignum": "git://github.com/Invader444/node-bignum.git#node12",
         "bitgo-utxo-lib": "git://github.com/miketout/bitgo-utxo-lib.git",
         "cryptocurrency-addr": "git://github.com/Invader444/node-cryptocurrency-addr.git",
         "equihashverify": "git://github.com/AoD-Technologies/equihashverify.git",
-        "merkle-bitcoin": "^1.0.2",
+    "merkle-bitcoin": "git+https://github.com/Konstantin35/merkle-bitcoin.git",
         "multi-hashing": "git://github.com/SkinnyPeteTheGiraffe/n-multi-hashing.git",
-        "promise": "*",
+    "promise": "*",
         "verushash": "git://github.com/AoD-Technologies/verushash-node.git"
     },
     "engines": {
